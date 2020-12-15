@@ -1,0 +1,29 @@
+body{
+  background-color: magenta;
+  align-content: center;
+  text-align: center;
+}
+header{
+  color:red;
+  font-size:20px;
+  background-color:orange;
+  text-align:center;
+}
+nav{
+  font-size: 20px;
+  color:blue;
+  background: pink;
+}
+main{
+  font-size:20px;
+  border-left: 30px;
+  border-block-start-color: red;
+  background-color: orange;
+  color:red;
+  
+}
+button{
+  background-color: orangered;
+  border-block-end-color: rebeccapurple;
+  border:20px top bottom right left orange;
+}
